@@ -16,8 +16,8 @@ DATA_PROFILING.ANALYSIS_RESULTS # Bigquery table where will be saved the results
 "col1 = 'a' or|and col2 = 'b'" # bq table filter optional, like a sql where clause
 ```
 
-## License
-[Apache 2.0](LICENSE.md)
-
 ## Link to PyDeequ project source
 [https://github.com/awslabs/python-deequ](https://github.com/awslabs/python-deequ)
+
+## License
+[Apache 2.0](LICENSE.md)
