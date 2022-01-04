@@ -1,1 +1,1 @@
-# pyspark-deequ
+# pyspark-pydeequ
