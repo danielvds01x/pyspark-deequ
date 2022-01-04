@@ -18,3 +18,6 @@ DATA_PROFILING.ANALYSIS_RESULTS # Bigquery table where will be saved the results
 
 ## License
 [Apache 2.0](LICENSE.md)
+
+## Link to PyDeequ project source
+[https://github.com/awslabs/python-deequ](https://github.com/awslabs/python-deequ)
